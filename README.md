@@ -1,14 +1,13 @@
-# nike-frontend
-
+#Nike Frontend
 This project is a simple landing page created using Tailwind CSS and React. It showcases a minimalist design inspired by Nike's branding.
 
-
-### Features
-
-- Clean and minimalist design
-- Responsive layout for various screen sizes
-- Utilizes Tailwind CSS for rapid styling
-- Built with React for dynamic components
+Features
+Clean and minimalist design: Inspired by Nike's branding principles.
+Responsive layout: Adaptable to various screen sizes.
+Rapid styling: Utilizes Tailwind CSS for efficient and maintainable styling.
+Dynamic components: Built with React for seamless and interactive user experience.
+Installation
+To get started with this project, follow these steps:
 
 ### Installation
 
